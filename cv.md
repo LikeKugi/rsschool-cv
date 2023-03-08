@@ -55,5 +55,5 @@ ___
     * [JavaScript and BootStrap5 mini-course](https://stepik.org/cert/1966025)
 ___
 ## Languages
-- Russian
-- English
+- Russian native
+- English A2-B1 level
