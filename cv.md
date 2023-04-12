@@ -34,6 +34,9 @@
 - Python
 - Git
 
+- [CodeWars](https://www.codewars.com/users/LikeKugi)
+- [LeetCode](https://leetcode.com/i_kugi/)
+
 ---
 
 ## My code examples
