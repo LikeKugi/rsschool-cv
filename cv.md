@@ -12,6 +12,8 @@
 
 **Discord**: KugiTheBest#1803
 
+**Email**: Demka.ilya@gmail.com
+
 [GitHub](https://github.com/LikeKugi)
 
 ---
